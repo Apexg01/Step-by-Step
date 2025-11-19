@@ -6,3 +6,4 @@ print ("the result is " ,result)
 print("Result type", type (result))
 
 #type () is used to know the data type of a variable or value. type = bool, str, int etc
+# = assisngs value, == is used to compare two values 
