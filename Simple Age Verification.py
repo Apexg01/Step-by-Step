@@ -9,4 +9,6 @@ result = a <= b
 if result == True:
     print("You are eligible,", name)  
 if result == False:
-    print("You are not eligible,", name)
+    print("You are not eligible,", name)  
+
+    
