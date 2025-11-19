@@ -4,4 +4,4 @@ Email = input("Enter Your E-mail:-")
 
 print("Hello,",Name) 
 print("Your age is:",Age, "and your E-mail is:",Email)
-# if two or more inputs then , will seperate them 
+# if two or more inputs then , will seperate them
