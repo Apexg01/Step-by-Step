@@ -1,0 +1,5 @@
+name = input("Your Name:")
+print(name.upper())
+print(name.title())
+print(len(name))
+print(name.split())

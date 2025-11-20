@@ -16,7 +16,3 @@ print (text[:])
 
 print(text[0:8:4])
 # ratio se hota hai for every 8 characters after start every 4th character will be printed
-
-
-
-
