@@ -15,4 +15,4 @@ else:
 
 print("Your total marks are", x)
 
-# , seperates   
+# , seperates      
