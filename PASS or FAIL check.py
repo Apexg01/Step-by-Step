@@ -18,6 +18,17 @@ else:
 
 print("Your total marks are", x)
 print("Your percentage is", z ,"%")
+print("Your Grade is:-")
+if z >= 90:
+    print("GRADE: A")
+elif z >= 75:
+    print("GRADE: B")
+elif z >= 50:
+    print("GRADE: C")
+elif z >= 33:
+    print("GRADE: D")  
+else: 
+    print("GRADE: F")        
 
 # , seperates 
 # () should be used as used in maths representation     
