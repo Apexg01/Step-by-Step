@@ -6,6 +6,7 @@ opt = int(input("Enter marks of Optional Subject: "))
 
 x = (phy+chem+math+opt) /2 
 y = x - 33
+z = (phy + chem + math + opt) /400 * 100
 
 if x >= 33:
     print("PASS")
@@ -16,5 +17,7 @@ else:
     print("You have failed by", y, "marks")
 
 print("Your total marks are", x)
+print("Your percentage is", z ,"%")
 
-# , seperates      
+# , seperates 
+# () should be used as used in maths representation     
