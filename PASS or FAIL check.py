@@ -4,7 +4,7 @@ chem = int(input("Enter marks of Chemistry: "))
 math = int(input("Enter marks of Mathematics: "))
 opt = int(input("Enter marks of Optional Subject: "))
 
-x = (phy+chem+math+opt) /2 
+x = (phy+chem+math+opt) /4
 y = x - 33
 z = (phy + chem + math + opt) /400 * 100
 
@@ -31,5 +31,4 @@ else:
     print("GRADE: F")        
 
 # , seperates 
-# () should be used as used in maths representation 
-#     
+# () should be used as used in maths representation  
