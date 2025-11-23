@@ -1,10 +1,9 @@
-i = 0
+i=-1
 
-while i <= 10 :
-    if i ==4:
-        i+= 1 
-        continue 
-    if i == 24:
-        break 
-print(i)
-i+=1 
+while i<11:
+    i +=1
+    if i==5:
+        continue
+    if i==10:
+        break
+    print(i)
