@@ -12,5 +12,5 @@ print(len(msg))  # Get number of words/characters used in the syntax
 
 a = "Hi" 
 b = "there"
-print(a+b)
-# + "" + to give space , my observation "" ke andar space dedo 
+print(a + " " + b)
+# + " " + to give space , my observation " " ke andar space dedo 
