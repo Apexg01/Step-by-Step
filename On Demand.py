@@ -73,7 +73,7 @@ if days_left < 0:
     corr= int(365) + days_left + 1
     print("Your birthday has already passed this year, but don't worry! Your next birthday is in "+str(corr)+" days.")
 else:
-    print("Your birthday is in "+str(days_left)+" days. Get ready to celebrate!")
+    print("Your birthday is after "+str(days_left)+" days. Get ready to celebrate!")
 
 
 if days_left < 0:
