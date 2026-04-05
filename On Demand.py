@@ -1,6 +1,6 @@
 name = input("What's your good name? ")
 print("Hello, "+name+"! Please enter the date, month & year in dd mm yyyy format as per the requirement.")
-
+print("PLEASE NOTE: IT DOES'NT TAKES LEAP YEAR INTO CONSIDERATION!")
 date = int(input("What's today's date? "))
 mo = input("Whats's the month going on? ")
 ye = input("What's the year going on? ")
