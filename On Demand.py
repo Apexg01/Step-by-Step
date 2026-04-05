@@ -36,9 +36,9 @@ days_completed = date + month
 #close thr "" and use variable with + on both sides to use it in constant sentence perfectly
 print("Please enter your Date of birth as per the column")
 
-dd = int(input("Enter your *DATE* of birth:- "))
-mm = input("Enter your *MONTH* of birth:- ")
-yyyy = input("Enter your *YEAR* of birth:- ")
+dd = int(input("Enter your \"DATE\" of birth:- "))
+mm = input("Enter your \"MONTH\" of birth:- ")
+yyyy = input("Enter your \"YEAR\" of birth:- ")
 
 if mm == "1" or mm == "01":
     month = int(31)
