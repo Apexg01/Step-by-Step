@@ -13,4 +13,3 @@ elif ab == "x" or ab == "multiply":
     print(a*b)
 elif ab == "/" or ab == "divide":
     print(a/b)
-
